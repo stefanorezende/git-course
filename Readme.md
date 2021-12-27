@@ -1,6 +1,7 @@
-#Git e Github
-#Arquivo da aula de Git e Github para iniciantes.
+#Git e Github.
 
-# Para mais informações [willianjusten.com.br](http://willianjusten.com.br).
+Arquivo da aula de Git e Github para iniciantes.
 
-#Quero Café.
+Para mais informações [willianjusten.com.br](http://willianjusten.com.br).
+
+Quero Café.
